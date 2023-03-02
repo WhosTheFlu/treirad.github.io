@@ -1,7 +1,3 @@
-// ******* index.js *******
-
-// Mouse events
-// element.addEventListener(type, function);
 
 const cells = document.querySelectorAll(".cell");
 cells.backgroundColor = "grey";
